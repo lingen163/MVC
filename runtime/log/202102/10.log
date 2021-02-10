@@ -1,0 +1,3982 @@
+[ 2021-02-10T10:45:18+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php
+[ log ] 127.0.0.1/index.php [运行时间：0.045086s][吞吐率：22.18req/s] [内存消耗：1,462.39kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:7]
+
+---------------------------------------------------------------
+[ 2021-02-10T10:59:02+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.056686s][吞吐率：17.64req/s] [内存消耗：1,462.17kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:7]
+
+---------------------------------------------------------------
+[ 2021-02-10T11:09:02+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.042836s][吞吐率：23.34req/s] [内存消耗：1,462.38kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:7]
+
+---------------------------------------------------------------
+[ 2021-02-10T11:34:02+08:00 ] 127.0.0.1 127.0.0.1 GET /index/login/index
+[ log ] 127.0.0.1/index/login/index [运行时间：0.055167s][吞吐率：18.13req/s] [内存消耗：1,467.38kb] [文件加载：40]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2021-02-10T11:34:06+08:00 ] 127.0.0.1 127.0.0.1 GET /index
+[ log ] 127.0.0.1/index [运行时间：0.047200s][吞吐率：21.19req/s] [内存消耗：1,470.94kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:7]
+
+---------------------------------------------------------------
+[ 2021-02-10T13:20:26+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.056533s][吞吐率：17.69req/s] [内存消耗：1,462.17kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:7]
+
+---------------------------------------------------------------
+[ 2021-02-10T13:21:56+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.058780s][吞吐率：17.01req/s] [内存消耗：1,462.17kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:7]
+
+---------------------------------------------------------------
+[ 2021-02-10T18:30:25+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.056834s][吞吐率：17.60req/s] [内存消耗：1,462.17kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:7]
+
+---------------------------------------------------------------
+[ 2021-02-10T18:35:36+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.045011s][吞吐率：22.22req/s] [内存消耗：1,463.98kb] [文件加载：42]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8192]Methods with the same name as their class will not be constructors in a future version of PHP; Index has a deprecated constructor[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:2]
+
+---------------------------------------------------------------
+[ 2021-02-10T19:16:58+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.043570s][吞吐率：22.95req/s] [内存消耗：1,460.12kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2021-02-10T19:17:14+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php?c=controller&a=show
+[ log ] 127.0.0.1/index.php?c=controller&a=show [运行时间：0.040115s][吞吐率：24.93req/s] [内存消耗：1,460.41kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'c' => 'controller',
+  'a' => 'show',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2021-02-10T19:17:52+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php?c=controller&a=show
+[ log ] 127.0.0.1/index.php?c=controller&a=show [运行时间：0.042267s][吞吐率：23.66req/s] [内存消耗：1,460.59kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'c' => 'controller',
+  'a' => 'show',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2021-02-10T19:17:52+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php?c=controller&a=show
+[ log ] 127.0.0.1/index.php?c=controller&a=show [运行时间：0.040207s][吞吐率：24.87req/s] [内存消耗：1,460.59kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'c' => 'controller',
+  'a' => 'show',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2021-02-10T19:17:53+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php?c=controller&a=show
+[ log ] 127.0.0.1/index.php?c=controller&a=show [运行时间：0.043888s][吞吐率：22.79req/s] [内存消耗：1,460.59kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'c' => 'controller',
+  'a' => 'show',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2021-02-10T19:17:53+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php?c=controller&a=show
+[ log ] 127.0.0.1/index.php?c=controller&a=show [运行时间：0.038761s][吞吐率：25.80req/s] [内存消耗：1,460.59kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'c' => 'controller',
+  'a' => 'show',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2021-02-10T19:17:56+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php
+[ log ] 127.0.0.1/index.php [运行时间：0.039196s][吞吐率：25.51req/s] [内存消耗：1,459.92kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2021-02-10T19:19:16+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php
+[ log ] 127.0.0.1/index.php [运行时间：0.044737s][吞吐率：22.35req/s] [内存消耗：1,460.13kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2021-02-10T19:41:54+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.046461s][吞吐率：21.52req/s] [内存消耗：1,458.39kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2021-02-10T19:42:09+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.043894s][吞吐率：22.78req/s] [内存消耗：1,458.40kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2021-02-10T19:42:10+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.038438s][吞吐率：26.02req/s] [内存消耗：1,458.40kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2021-02-10T20:07:37+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.039864s][吞吐率：25.09req/s] [内存消耗：1,421.14kb] [文件加载：38]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2021-02-10T20:09:28+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.039663s][吞吐率：25.21req/s] [内存消耗：1,421.39kb] [文件加载：38]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2021-02-10T20:09:28+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.036059s][吞吐率：27.73req/s] [内存消耗：1,421.39kb] [文件加载：38]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2021-02-10T20:09:29+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.038868s][吞吐率：25.73req/s] [内存消耗：1,421.39kb] [文件加载：38]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2021-02-10T20:09:29+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.035243s][吞吐率：28.37req/s] [内存消耗：1,421.39kb] [文件加载：38]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2021-02-10T20:10:07+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.049206s][吞吐率：20.32req/s] [内存消耗：1,421.39kb] [文件加载：38]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2021-02-10T20:10:07+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.039167s][吞吐率：25.53req/s] [内存消耗：1,421.39kb] [文件加载：38]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2021-02-10T20:10:07+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.036183s][吞吐率：27.64req/s] [内存消耗：1,421.39kb] [文件加载：38]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2021-02-10T20:10:56+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.039199s][吞吐率：25.51req/s] [内存消耗：1,420.18kb] [文件加载：38]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2021-02-10T20:11:37+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.046030s][吞吐率：21.72req/s] [内存消耗：1,462.50kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\controller\model\model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:7]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:13:07+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.041863s][吞吐率：23.89req/s] [内存消耗：1,462.48kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:13:24+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.040747s][吞吐率：24.54req/s] [内存消耗：1,462.50kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\controller\model\model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:7]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:14:05+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.046651s][吞吐率：21.44req/s] [内存消耗：1,462.55kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model\model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:14:19+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.039091s][吞吐率：25.58req/s] [内存消耗：1,462.53kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:16:49+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.043799s][吞吐率：22.83req/s] [内存消耗：1,462.53kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:17:19+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.039554s][吞吐率：25.28req/s] [内存消耗：1,462.53kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:17:19+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.040619s][吞吐率：24.62req/s] [内存消耗：1,462.53kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:17:20+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.040187s][吞吐率：24.88req/s] [内存消耗：1,462.53kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:18:06+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.039237s][吞吐率：25.49req/s] [内存消耗：1,462.53kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:18:07+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.038334s][吞吐率：26.09req/s] [内存消耗：1,462.53kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:18:07+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.038634s][吞吐率：25.88req/s] [内存消耗：1,462.53kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:18:07+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.042703s][吞吐率：23.42req/s] [内存消耗：1,462.53kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:18:18+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.037477s][吞吐率：26.68req/s] [内存消耗：1,462.63kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\controller\app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:18:18+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.042173s][吞吐率：23.71req/s] [内存消耗：1,462.63kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\controller\app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:18:34+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.038111s][吞吐率：26.24req/s] [内存消耗：1,462.52kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:18:48+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.041637s][吞吐率：24.02req/s] [内存消耗：1,462.53kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:20:02+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.044327s][吞吐率：22.56req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:20:03+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.046838s][吞吐率：21.35req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:20:03+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.038196s][吞吐率：26.18req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:20:03+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.044961s][吞吐率：22.24req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:20:03+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.034395s][吞吐率：29.07req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:20:04+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.038993s][吞吐率：25.65req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:20:05+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.042594s][吞吐率：23.48req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:20:05+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.041760s][吞吐率：23.95req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:20:05+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.035337s][吞吐率：28.30req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:20:25+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.040049s][吞吐率：24.97req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:20:26+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.044942s][吞吐率：22.25req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:20:26+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.045289s][吞吐率：22.08req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:21:02+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.039373s][吞吐率：25.40req/s] [内存消耗：1,462.37kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:21:44+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.040993s][吞吐率：24.39req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:22:07+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.045597s][吞吐率：21.93req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:22:08+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.040947s][吞吐率：24.42req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:22:08+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.040252s][吞吐率：24.84req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:22:08+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.035401s][吞吐率：28.25req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:22:08+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.033673s][吞吐率：29.70req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:22:08+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.039215s][吞吐率：25.50req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:23:08+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.040577s][吞吐率：24.64req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:23:09+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.043905s][吞吐率：22.78req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:23:09+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.033274s][吞吐率：30.05req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:23:09+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.043924s][吞吐率：22.77req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:23:09+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.038723s][吞吐率：25.82req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:23:10+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.038463s][吞吐率：26.00req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:23:12+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.036683s][吞吐率：27.26req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:26:02+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.042323s][吞吐率：23.63req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:26:02+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.039392s][吞吐率：25.39req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:26:03+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.039403s][吞吐率：25.38req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:26:03+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.038675s][吞吐率：25.86req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:26:03+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.039775s][吞吐率：25.14req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:26:04+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.038450s][吞吐率：26.01req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:26:22+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.038085s][吞吐率：26.26req/s] [内存消耗：1,464.13kb] [文件加载：42]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [8192]Methods with the same name as their class will not be constructors in a future version of PHP; Index has a deprecated constructor[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:4]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:27:11+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.039714s][吞吐率：25.18req/s] [内存消耗：1,462.43kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:28:08+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.045291s][吞吐率：22.08req/s] [内存消耗：1,462.49kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:9]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:28:09+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.039844s][吞吐率：25.10req/s] [内存消耗：1,462.49kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:9]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:29:11+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.039481s][吞吐率：25.33req/s] [内存消耗：1,460.09kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2021-02-10T20:31:42+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.044801s][吞吐率：22.32req/s] [内存消耗：1,460.85kb] [文件加载：40]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [0]语法解析错误: syntax error, unexpected ';'[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:9]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:32:03+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.039645s][吞吐率：25.22req/s] [内存消耗：1,462.49kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:9]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:32:41+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.046168s][吞吐率：21.66req/s] [内存消耗：1,462.49kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:9]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:32:41+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.039089s][吞吐率：25.58req/s] [内存消耗：1,462.49kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:9]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:32:42+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.042806s][吞吐率：23.36req/s] [内存消耗：1,462.49kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:9]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:32:42+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.034879s][吞吐率：28.67req/s] [内存消耗：1,462.49kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\model\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:9]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:33:43+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.045577s][吞吐率：21.94req/s] [内存消耗：1,462.48kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:9]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:35:50+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/index/index
+[ log ] 127.0.0.1/index.php/index/index [运行时间：0.045570s][吞吐率：21.94req/s] [内存消耗：1,462.55kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:9]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:36:16+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/index/index
+[ log ] 127.0.0.1/index.php/index/index [运行时间：0.040146s][吞吐率：24.91req/s] [内存消耗：1,462.75kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:9]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:36:16+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/index/index
+[ log ] 127.0.0.1/index.php/index/index [运行时间：0.047154s][吞吐率：21.21req/s] [内存消耗：1,462.75kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:9]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:36:17+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/index/index
+[ log ] 127.0.0.1/index.php/index/index [运行时间：0.038235s][吞吐率：26.15req/s] [内存消耗：1,462.75kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:9]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:36:17+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/index/index
+[ log ] 127.0.0.1/index.php/index/index [运行时间：0.038904s][吞吐率：25.70req/s] [内存消耗：1,462.75kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:9]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:36:17+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/index/index
+[ log ] 127.0.0.1/index.php/index/index [运行时间：0.038482s][吞吐率：25.99req/s] [内存消耗：1,462.75kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:9]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:36:53+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/index/index
+[ log ] 127.0.0.1/index.php/index/index [运行时间：0.039617s][吞吐率：25.24req/s] [内存消耗：1,462.75kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:36:54+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/index/index
+[ log ] 127.0.0.1/index.php/index/index [运行时间：0.038720s][吞吐率：25.83req/s] [内存消耗：1,462.75kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:36:55+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/index/index
+[ log ] 127.0.0.1/index.php/index/index [运行时间：0.039079s][吞吐率：25.59req/s] [内存消耗：1,462.75kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:36:55+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/index/index
+[ log ] 127.0.0.1/index.php/index/index [运行时间：0.040501s][吞吐率：24.69req/s] [内存消耗：1,462.75kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:40:02+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/index/index
+[ log ] 127.0.0.1/index.php/index/index [运行时间：0.044814s][吞吐率：22.31req/s] [内存消耗：1,462.75kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:40:16+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/index/index
+[ log ] 127.0.0.1/index.php/index/index [运行时间：0.038653s][吞吐率：25.87req/s] [内存消耗：1,462.75kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:40:17+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/index/index
+[ log ] 127.0.0.1/index.php/index/index [运行时间：0.043664s][吞吐率：22.90req/s] [内存消耗：1,462.75kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:46:01+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/index/index
+[ log ] 127.0.0.1/index.php/index/index [运行时间：0.044628s][吞吐率：22.41req/s] [内存消耗：1,462.75kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:46:05+08:00 ] 127.0.0.1 127.0.0.1 GET /index.php/index/index
+[ log ] 127.0.0.1/index.php/index/index [运行时间：0.036010s][吞吐率：27.77req/s] [内存消耗：1,462.75kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:46:09+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.048333s][吞吐率：20.69req/s] [内存消耗：1,462.27kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'app\index\Model' not found[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:8]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:47:53+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.043730s][吞吐率：22.87req/s] [内存消耗：1,533.67kb] [文件加载：44]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Array to string conversion[D:\phpstudy_pro\WWW\MVC\application\index\view\View.php:14]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:55:29+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.043855s][吞吐率：22.80req/s] [内存消耗：1,462.92kb] [文件加载：42]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]variable type error： array[D:\phpstudy_pro\WWW\MVC\thinkphp\library\think\Response.php:312]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:56:59+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.039492s][吞吐率：25.32req/s] [内存消耗：1,430.84kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2021-02-10T20:57:18+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.040917s][吞吐率：24.44req/s] [内存消耗：1,468.02kb] [文件加载：43]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8192]Non-static method app\index\model\Model::getData() should not be called statically[D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php:9]
+
+---------------------------------------------------------------
+[ 2021-02-10T20:57:31+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.040159s][吞吐率：24.90req/s] [内存消耗：1,430.84kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2021-02-10T20:58:23+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.036379s][吞吐率：27.49req/s] [内存消耗：1,430.84kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2021-02-10T20:58:23+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.037653s][吞吐率：26.56req/s] [内存消耗：1,430.84kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2021-02-10T20:58:24+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ log ] 127.0.0.1/ [运行时间：0.040154s][吞吐率：24.90req/s] [内存消耗：1,430.84kb] [文件加载：41]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\MVC\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\phpstudy_pro\WWW\MVC\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
