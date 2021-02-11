@@ -136,6 +136,12 @@ return [
         'taglib_begin' => '{',
         // 标签库标签结束标记
         'taglib_end'   => '}',
+
+        //'taglib_pre_load'=> '\app\common\taglib\Cms',
+
+        'taglib_build_in' => 'cx,\app\common\taglib\Cms',
+
+        'tpl_cache'=>false
     ],
 
     // 视图输出字符串内容替换

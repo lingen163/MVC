@@ -6,10 +6,12 @@ class Index
 {
     public function index()
     {   
-        $data=Model::getData();  //静态方法访问
+           //$data=Model::getData();  //静态方法访问
         //$data=(new Model)->getData();　　//new对象来访问
-        echo View::disPlay($data);
-        return json($data);  
+          //echo View::disPlay($data);
+        //return json($data);
+        return view();
 
+ 
     }
 }
